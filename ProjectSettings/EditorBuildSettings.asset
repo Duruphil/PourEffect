@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Fluid_Duru/01.Scene/Main_copy_NatCorderTEst.unity
+    guid: 9114a79a8d110834691f5ae5488fa984
+  - enabled: 1
+    path: Assets/Fluid_Duru/01.Scene_Duru/ReplayCamTest_Duru.unity
+    guid: d3534cd9262b64c779e2d78c6ee5a5b1
+  - enabled: 0
+    path: Assets/NatSuite/Examples/WebCam/WebCam.unity
+    guid: 66396c4bbeac244118de8e95af4aff1d
   m_configObjects: {}

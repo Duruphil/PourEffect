@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - glass
+  - stream
+  - tea_seed
+  - tea_flower
+  - tea_root
+  - tea_leaf
+  - leaf_Mix
+  - flower_Mix
+  - root_Mix
+  - seed_Mix
   layers:
   - Default
   - TransparentFX

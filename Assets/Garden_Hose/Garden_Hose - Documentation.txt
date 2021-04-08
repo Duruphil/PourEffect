@@ -1,0 +1,7 @@
+A realistic garden hose, complete with water jet, water mist, hose model and audio.
+
+Load the Garden_Hose.unity for an example scene, or Garden_Hose.prefab in the Project window into the Hierarchy window.
+
+Have fun!
+
+If you have any questions then please get in touch at bendurrant@rivermillstudios.com
